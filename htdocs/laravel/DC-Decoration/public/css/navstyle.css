@@ -1,0 +1,12 @@
+.navbar{
+   /* border:1px solid black !important;*/
+    padding: 10px !important;
+}
+.nav-link:hover{
+    /*background-color: black;*/
+    background-color: black;
+    border-radius: 25px !important;
+    color: brown;
+    box-shadow: 2px 2px 25px black, 2px 2px 50px black;
+transition: ease-in-out 0.5s;
+}

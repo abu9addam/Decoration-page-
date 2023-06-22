@@ -1,0 +1,25 @@
+@font-face {
+    font-family:'DcDecoration_font' ;
+    src: url(../fonts/Janna\ LT\ Bold.ttf);
+}
+*{
+    padding: 0;
+    margin: 0;
+    font-family:'DcDecoration_font';
+}
+.bg-img{
+    background: url('../DC_Img/header_bg_3.jpeg') no-repeat;
+    background-size: cover;
+    height:100vh ;
+    background-attachment: fixed;
+}
+nav{
+    height: 80px !important;
+    position: sticky;
+}
+.navbar-nav .nav-link, navbar-brand{
+    /*color: rgba(255,215, 0, 665) !important;*/
+    font-size: 18 px !important;
+   /* font-weight: 700;*/
+
+}

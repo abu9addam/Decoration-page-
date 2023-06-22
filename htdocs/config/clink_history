@@ -1,0 +1,14 @@
+|CTAG_1683756154_178351906_1756_0
+cd laravel\
+ls
+MYfirstApp\
+|ode .
+composer require laravel/ui
+php artisan ui bootstrap auth
+php artisan ui bootstrap --auth
+cd laravel
+cd ahmad
+| code
+.code
+. code
+code .
